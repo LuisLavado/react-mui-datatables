@@ -1,3 +1,8 @@
+# MUI-Datatables - Datatables for MUI (formerly Material-UI)
+This is a project where we create Datatables with React, using the mui-datatables library.
+
+### `Author: Luis Lavado`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
